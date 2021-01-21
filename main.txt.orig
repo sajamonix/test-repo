@@ -1,0 +1,7 @@
+developcommit
+feature1commitget
+feature2commit
+<<<<<<< HEAD
+=======
+feature3commit
+>>>>>>> feature_3
